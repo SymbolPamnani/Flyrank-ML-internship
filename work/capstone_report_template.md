@@ -1,9 +1,9 @@
 # Capstone Report — <your lane>
 
-- **Author:**
-- **Lane:**
-- **Repo:**
-- **Date:**
+- **Author:** Symbol Pamnani
+- **Lane:** Content Refresh / Decline
+- **Repo:** https://github.com/SymbolPamnani/Flyrank-ML-internship
+- **Date:** 9th September
 
 > Copy this file to `work/capstone_report.md` and fill it in as you build. Sections 1–8
 > mirror the Pass / Needs-Work rubric axes, so nothing here is optional. Sections 0 and 9
