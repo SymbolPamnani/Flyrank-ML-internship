@@ -156,6 +156,35 @@ Built on the FlyRank ML Internship dataset.
 
 Data and internship context: https://flyrank.ai
 
+## Artifact
+1. Artifact 1 — Model vs Baseline
+### Model vs Baseline — Precision@50
+
+| Method | Precision@50 |
+|---|---:|
+| Base rate | 0.511 |
+| W04 baseline | 0.400 |
+| Logistic Regression | 0.380 |
+
+2. Artifact 2 — Validation Comparison
+### Validation Design Comparison — Precision@50
+
+| Validation design | Precision@50 |
+|---|---:|
+| Row-random | 0.780 |
+| Client-grouped | 0.380 |
+
+3. Artifact 3 — Reason-code occurrences
+### Reason-Code Occurrences
+
+| Reason code | Occurrences |
+|---|---:|
+| OLD_CONTENT | 2523 |
+| LOW_SEARCH_SIGNAL | 1835 |
+| HIGH_COMPETITION | 1427 |
+| STALE_CONTENT | 966 |
+| MODEL_PRIORITY | 950 |
+
 ### Run commands
 
 ```bash
